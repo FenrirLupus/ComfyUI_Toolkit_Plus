@@ -41,4 +41,4 @@ Regardless I Hope You Enjoy the Pack and It's Features!!
 ### Option B — Manual Install
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/YOUR_GITHUB_NAME/ComfyUI_Toolkit_Plus.git
+git clone https://github.com/DJWolf3/ComfyUI_Toolkit_Plus.git
