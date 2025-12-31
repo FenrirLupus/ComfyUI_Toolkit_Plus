@@ -3,7 +3,7 @@ A utility-focused extension toolkit for ComfyUI, designed to provide workflow co
 This project emphasizes clarity, control, and non-destructive tooling for AI-assisted creative workflows.
 
 [WARNING]  
-I am not a professional developer—I’m a hobbyist who enjoys working with AI to create artwork for personal use. The code in this project was created with the help of AI and is organized to the best of my ability. While not everything may be perfect, any updates or improvements I make while using these tools regularly will be reflected in this repository.
+I am not a professional developer—I’m a hobbyist who enjoys working with AI to create artwork for personal use. The code in this project was created with the help of AI and is organized to the best of my ability. While not everything may be perfect, any updates or improvements I make while using these tools regularly will be reflected in this repository.  
 [WARNING]  
 Regardless I Hope You Enjoy the Pack and It's Features!!
 
